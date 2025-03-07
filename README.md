@@ -1,5 +1,4 @@
 
-# **Statistics_Hypothesis_AB Testing**  
 ### **Project: Aviva Insurance Data Analysis ~ Hypothesis Testing and Predictive Modeling**  
 
 ## **📌 Table of Contents**  
